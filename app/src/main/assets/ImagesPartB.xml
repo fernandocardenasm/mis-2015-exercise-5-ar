@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="p_013" size="500.000000 648.936157" />
+    <ImageTarget name="b11_013" size="500.000000 666.666687" />
+    <ImageTarget name="berkaer_003" size="500.000000 666.666687" />
+    <ImageTarget name="b11_014" size="500.000000 666.666687" />
+    <ImageTarget name="b11_015" size="500.000000 500.000000" />
+    <ImageTarget name="tree" size="500.000000 333.496094" />
+    <ImageTarget name="city" size="500.000000 246.582031" />
+    <ImageTarget name="cat" size="500.000000 375.000000" />
+  </Tracking>
+</QCARConfig>
